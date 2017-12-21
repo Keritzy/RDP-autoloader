@@ -1,0 +1,4 @@
+C:\Users\gorno\Desktop\Rdp autoloader\RDP Autoloader\obj\Release\RDP Autoloader.csprojResolveAssemblyReference.cache
+C:\Users\gorno\Desktop\Rdp autoloader\RDP Autoloader\obj\Release\VdsFileUploader.Form1.resources
+C:\Users\gorno\Desktop\Rdp autoloader\RDP Autoloader\obj\Release\VdsFileUploader.Properties.Resources.resources
+C:\Users\gorno\Desktop\Rdp autoloader\RDP Autoloader\obj\Release\RDP Autoloader.csproj.GenerateResource.Cache
